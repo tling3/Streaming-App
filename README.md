@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Streaming-App
+
+I wrote this application that served as one of the core projects within a React & Redux course on Udemy. I gained a great skill set from the course, and learned how to work with some great technology.  The application and techmology involved is described below.
+
+## Streaming-App Description
+
+The Streaming-App allows for clients/browsers to view the live streaming of a desktop. An example of this application would be something like the streaming service Twitch. Although, this is a much more simplified version of a streaming application.
+
+## Streaming-App Technology
+
+Below is a list of the technologies that were involved in making this project.  There is also short descriptions for the role they played in the project.
+
+* React - Javascript library used for building user interfaces or UI components.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
