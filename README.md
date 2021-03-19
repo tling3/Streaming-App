@@ -4,7 +4,7 @@ I wrote this application that served as one of the core projects within a React 
 
 ## Streaming-App Description
 
-The Streaming-App allows for clients/browsers to view the live streaming of a desktop. An example of this application would be something like the streaming service, 'Twitch'. Although, this is a much more simplified version of a streaming application.
+The Streaming-App allows for clients/browsers to view the live streaming of a desktop. An example of this application would be something like the streaming service, 'Twitch'. Although, this is a much more simplified version of a streaming application used for academic purposes.
 
 ## Streaming-App Technology
 
