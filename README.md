@@ -1,6 +1,6 @@
 # Streaming-App
 
-I wrote this application that served as one of the core projects within a React & Redux course on Udemy. I gained a great skill set from the course, and learned how to work with some great technology.  The application and technology involved is described below.
+I wrote this application that served as one of the core projects within a React & Redux course on Udemy. I gained a ton of knowledge and earned a great skill set working with some great technology.  The application itself and the technology involved is described below.
 
 ## Streaming-App Description
 
