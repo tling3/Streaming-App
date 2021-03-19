@@ -20,7 +20,7 @@ Below is a list of the technologies that were involved in making this project. T
 * OAuth2 - registered application with Google to enable Google Sign-In and conduct OAuth2 authentication.
 * GAPI - installed Google's API to access Javascript library and initialize with OAuth.
 * Json-Server - mock REST API. This served as the API to manage data per stream.
-* Node-Media-Server - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH Media Server. Real Time Messaging Protocol server that connected a Streamer's broadcast to a viewer's browser.
+* Node-Media-Server - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH Media Server. This served as a Real Time Messaging Protocol (RMTP) server that connected a Streamer's broadcast to a viewer's browser.
 * flv.js - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash. Served as the application's video player.
 * Axios - promise based HTTP client for the browser and Node.js.
 * Lodash - JavaScript utility library for modularity, performance, and other extras.
