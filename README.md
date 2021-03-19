@@ -11,6 +11,19 @@ The Streaming-App allows for clients/browsers to view the live streaming of a de
 Below is a list of the technologies that were involved in making this project. There is also short descriptions for the role they played in the project.
 
 * React - Javascript library used for building user interfaces or UI components.
+* React-Router-Dom - library of navigational components used for React.
+* Redux - state (data) container for Javascript applications.
+* React-Redux - React bindings for Redux (further enable compatability between React and Redux).
+* Redux-Thunk - middleware that allows async logic that interacts with the Redux store.
+* Redux-Form - library to manage form state in Redux.
+* Redux Dev Tools - browser extension for Google Chrome for debugging the application's state changes.
+* OAuth2 - registered application with Google to enable Google Sign-In and conduct OAuth2 authentication.
+* GAPI - installed Google's API to access Javascript library and initialize with OAuth.
+* Json-Server - mock REST API. This served as the API to manage data per stream.
+* Node-Media-Server - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH Media Server. Real Time Messaging Protocol server that connected a Streamer's broadcast to a viewer's browser.
+* flv.js - HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash. Served as the application's video player.
+* Axios - promise based HTTP client for the browser and Node.js.
+* Lodash - JavaScript utility library for modularity, performance, and other extras.
 
 ## Getting Started with Create React App
 
